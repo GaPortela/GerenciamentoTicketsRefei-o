@@ -1,2 +1,2 @@
 # GerenciamentoTicketsRefeicao
-Sistema de Gerencimento para Tickets vale refeição
+Sistema de Gerencimento para tickets vale refeição
